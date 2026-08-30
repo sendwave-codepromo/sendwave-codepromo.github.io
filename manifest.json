@@ -1,0 +1,16 @@
+{
+  "name": "Code Promo Sendwave XXL5W",
+  "short_name": "Sendwave XXL5W",
+  "description": "Code promo Sendwave XXL5W - Bonus 10€ gratuit sur votre premier transfert d'argent",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#FFD500",
+  "theme_color": "#2b0a1f",
+  "icons": [
+    {
+      "src": "icon.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
