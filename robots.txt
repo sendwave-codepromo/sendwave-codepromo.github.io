@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://sendwave-codepromo.github.io/sitemap.xml
